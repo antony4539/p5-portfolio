@@ -3,8 +3,7 @@ function setup() {
   rectMode(CENTER);
   colorMode(RGB);
 
-  // 5초짜리 GIF 저장
-  saveGif("abstract_animation", 5);
+
 }
 
 function draw() {
